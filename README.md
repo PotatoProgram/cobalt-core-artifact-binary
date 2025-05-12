@@ -1,0 +1,1 @@
+If someone happens to stumble across this and wants to render it (or you're me, from the future), I believe it uses 8-bit encoding on a 13x13 canvas. Or maybe I'm stupid. All I know is that there are 8 bits in every R G and B value. If you look up the Cobalt Core (from the game of the same name), it should look like that if you're using the right encoder setup.
